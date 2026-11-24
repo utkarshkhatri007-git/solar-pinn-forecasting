@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+outputs/
+outputs_*/
+runs/
+checkpoints/
+data/
+*.joblib
+*.pth
+*.pt
+*.pkl
+*.log
+*.tmp
